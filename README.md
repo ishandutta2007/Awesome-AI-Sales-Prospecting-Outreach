@@ -1,48 +1,59 @@
-# Awesome-AI-Sales-Prospecting-Outreach
+<div align="center">
 
-# Awesome-AI-Sales-Prospecting-Outreach
+# ⚡ Awesome AI Sales Prospecting & Outreach 🎯
 
-**Top AI Sales Prospecting Outreach (Opensource) 🌟 Star if you like it! 🌟**
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome AI Sales Prospecting & Outreach Banner" width="100%" />
+</p>
 
+**Curated collection of autonomous AI SDRs, signal-based outbound engines, waterfall lead enrichment platforms, and open-source sales infrastructure.** 🌟 *Star if you find it helpful!* 🌟
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Sales-Prospecting-Outreach/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-AI-Sales-Prospecting-Outreach?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Sales-Prospecting-Outreach/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-AI-Sales-Prospecting-Outreach?style=social" alt="GitHub forks" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Sales-Prospecting-Outreach/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-AI-Sales-Prospecting-Outreach?style=flat-square" alt="Issues" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-AI-Sales-Prospecting-Outreach/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-green?style=flat-square" alt="License" /></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**
+<p align="center">
+  <em>Last updated: October 2026 Edition 🚀</em>
+</p>
 
-*Focused on Autonomous Prospecting Agents, Signal-Based Outbound, Lead Enrichment & Multichannel Sequences*
+</div>
 
-**Last updated: October 2026**
+---
 
+## 📖 Table of Contents
 
+- [📊 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [🏢 SaaS & Hosted Commercial Platforms](#-saas--hosted-commercial-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [⭐ Star History](#-star-history)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [⚠️ Disclaimer](#️-disclaimer)
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **AI Sales Prospecting & Outreach**. These tools enable revenue teams to identify high-intent accounts, enrich contact data, draft personalized messages, and execute multichannel sequences—from fully managed AI SDR platforms with autonomous execution and intent signals to self-hosted outreach systems and lead discovery agents that give teams complete control over their prospecting data and sending infrastructure.
+---
 
+## 📊 Sector Overview & Market Dynamics
 
+The global market for AI sales assistants, autonomous AI SDRs, and sales engagement platforms (SEPs) is valued at **$3.0B–$9.2B in 2025**, rapidly expanding toward **$15B–$50B by 2030** with an accelerated compound annual growth rate (CAGR) between **16% and 44%**. 
 
-**Examples** include HubSpot AI Prospecting Agent, Apollo.io, Outreach, Salesloft, Regie.ai, Instantly, Lemlist, Amplemarket, Artisan, and 11x (the category leaders in commercial space).
+Rather than a winner-take-all monopoly, the sector remains **highly fragmented**:
+- **Enterprise Suites & Incumbents:** Giants like HubSpot, Outreach, and Salesloft dominate high-ACV enterprise pipelines by bundling deep CRM data and conversation intelligence.
+- **Product-Led Intelligence Providers:** Fast-scaling leaders like Apollo.io offer massive 240M+ contact databases paired with autonomous sequences.
+- **Agentic AI SDR Startups:** Autonomous digital workers (11x, Artisan) run prospecting, hyper-personalized drafting, and meeting scheduling on autopilot.
+- **Open-Source & Self-Hosted Outbound:** A surging developer ecosystem provides self-hosted deliverability stacks, waterfall scrapers, and local LLM agents for complete data privacy and zero per-seat markup.
 
+---
 
+## 🏢 SaaS & Hosted Commercial Platforms
 
-**Open-source emphasis**: This section is expanded with every relevant project for self-hosting, outbound automation, and open prospecting infrastructure. **Critical note**: The open-source landscape here is fragmented—**Pigeon** and **OpenOutreach** offer production-oriented outreach automation, while most other projects are narrow lead scrapers or early-stage agents. No open-source project matches Apollo's 240M+ contact database or HubSpot's integrated signal-to-outreach agent.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-- [Open-Source GitHub Projects](#open-source-github-projects)
-- [How to Contribute](#how-to-contribute)
-- [Disclaimer](#disclaimer)
-
-## Sector Overview & Market Dynamics
-
-The global market for AI sales assistants and autonomous sales engagement platforms is estimated at **$3.0B–$9.2B in 2025**, projected to surpass **$15B–$50B by 2030** at an accelerated CAGR between **16% and 44%**. Rather than a winner-take-all monopoly, the sector remains **highly fragmented**: established enterprise CRM and SEP incumbents (Salesforce, HubSpot, Outreach, Salesloft) hold significant suite market share, while dozens of agile, venture-backed and bootstrapped startups (Apollo, 11x, Artisan, Instantly) rapidly capture demand through autonomous AI SDR agents, intent-signal execution, and self-hosted outbound workflows.
-
-## SaaS/Hosted Platforms
+> [!NOTE]
+> All commercial platforms are sorted in descending order by company scale (Valuation / Revenue). Pricing columns reflect transparent, non-generic starting tier figures, and free limits reflect lifetime tiers or exact evaluation trial periods.
 
 | Platform | Starting Pricing | Free Tier / Trial Limits | Company Size (Valuation / Revenue) | Key Features & Focus |
 |---|---|---|---|---|
@@ -57,118 +68,147 @@ The global market for AI sales assistants and autonomous sales engagement platfo
 | **[Instantly](https://instantly.ai/)** | **$47/mo** (Growth tier: 1,000 contacts, 5,000 emails/mo, unlimited warmup) | **14-day free trial** (250 contacts, 1,000 emails sending test); no permanent free plan | **Bootstrapped (~$38M–$80M ARR)** | High-volume outbound engine featuring unlimited email account connections, automated account warm-up, and add-on AI lead search/enrichment credits. |
 | **[Regie.ai](https://www.regie.ai/)** | **$41–$49/mo** (Pro tier: includes 5,000 credits/mo) | **Free plan forever**: **250 one-time credits** per user (up to 10 users); no credit card required | **Series B Venture-Backed (~$8M–$15.5M ARR**; $65M+ raised) | AI prospecting platform (RegieGO) featuring credit-based autonomous research, contact enrichment, personalized drafts, and direct dialer. |
 
-## Open-Source GitHub Projects
-
-
-
-- **[Pigeon](https://github.com/tarinagarwal/Pigeon)**
-
-  **Open-source cold email outreach and deliverability platform** (license per repo) — **the most complete open-source outbound platform** found in this research . **Features**: Multi-step sequences with reply-based stopping; **A/B testing with auto-selected winner** (60% reply rate, 40% open rate weighting); inbox rotation across Gmail and SMTP; three layers of volume control (campaign cap, per-inbox 50/day hard limit, ramp-up by inbox age); **mailbox warm-up** with threaded conversations and spam rescue; **pairing risk scoring** (ships in `shadow` mode); DNS automation for SPF/DKIM/DMARC via Cloudflare, GoDaddy, Namecheap, or Google Cloud DNS; inbox placement testing; **per-recipient AI writing** with your own OpenAI/Anthropic/Gemini key; **Smart Leads** discovery pipeline (LLM writes queries → Serper runs → scrape → extract → email pattern guessing → ZeroBounce validation); **AI Campaign Studio** chat interface that builds real campaigns . **Tech stack**: Next.js 16, React 19, TypeScript, MongoDB, FastAPI (Python backend) . **Deploy**: Docker Compose (full stack including MongoDB) . **Trade-off**: **Requires configuration and API keys**—AI writing, web enrichment, and email validation need your own provider accounts. Deliverability infrastructure is your responsibility. **Best for**: teams wanting a self-hosted, feature-rich cold email platform with warm-up, deliverability tooling, and AI-assisted writing—without per-seat SaaS fees.
-
-
-
-- **[OpenOutreach](https://github.com/eracle/OpenOutreach)**
-
-  **Open-source AI agent for B2B lead generation** (~3,300 GitHub stars, actively maintained) — **the most popular open-source AI prospecting agent** . **Features**: Describe your product; the agent finds people who fit, **explains why each one fits**, and emails them automatically. Built as an autonomous agent pipeline rather than a manual sequence builder . **Tech stack**: Python (per repository). **Deploy**: Self-hosted. **Trade-off**: **Agent-driven, less control than Pigeon**—you describe the product and the agent decides who to contact. No built-in warm-up or deliverability tooling comparable to Pigeon. **Best for**: founders and small teams wanting an autonomous "describe and it prospects" agent with minimal configuration.
-
-
-
-- **[business-leads-ai-automation (Prospex)](https://github.com/asiifdev/business-leads-ai-automation)**
-
-  **Open-source AI sales & marketing OS** (~213 GitHub stars) — **the most complete open-source lead-to-outreach system with approval workflows** . **Features**: **Lead scoring and filtering** by priority, status, province, city, and district; lead detail with AI score breakdown; **Outbox where every message waits for your approval** (WhatsApp and Email tabs); **knowledge base** for AI to draw on; **AI Style** learned from your WhatsApp exports (reply length, emoji, punctuation, openers)—never stores raw chats, only anonymized pairs; campaign brief generation from website/docs; **rate limiting** (10/hour, 80/day defaults, quiet hours, random gaps); **STOP handling** and opt-out lines built in . **Tech stack**: Per repository (Node.js/Next.js stack). **Deploy**: Self-hosted or hosted at alatpintar.id . **Trade-off**: **WhatsApp-focused**—primary channel is WhatsApp with email secondary. Indonesia-oriented defaults (province/city filters). No cold email deliverability tooling. **Best for**: teams selling via WhatsApp wanting an approval-gated, rate-limited outreach system with AI-written messages in their own voice.
-
-
-
-- **[growth-tools](https://pypi.org/project/growth-tools/)**
-
-  **Automated lead capture from Reddit, Discord, and GitHub with hybrid LLM scoring** (license per PyPI) — **the most developer-community-focused lead generation tool** . **Features**: Monitors subreddits for buying signals; Discord bot with per-channel cooldown; **website auditor** detecting tech stack (Next.js, Vite, Supabase, Vercel); **GitHub auditor** scanning repos for migration readiness and competitor SDK usage; **hybrid rule + LLM scoring** (50/50 blend) with tiers (hot ≥80, nurture 60–79, educate 40–59, ignore <40); **LLM-generated outreach drafts capped at 90 words**; Slack notifications for hot leads . **Tech stack**: Python, OpenAI API, Supabase (optional), FastAPI. **Deploy**: CLI (`pip install growth-tools`) . **Trade-off**: **Developer-tool and SaaS focus**—optimized for finding developers discussing migration, self-hosting, or competitor tools. Not a general B2B prospecting tool. No email sending infrastructure—generates drafts only. **Best for**: dev-tool and infrastructure companies wanting to capture intent signals from developer communities with automated scoring and draft generation.
-
-
-
-- **[Cantrip](https://github.com/cantrip-dev/cantrip)**
-
-  **Go-to-market "cast at will" lead generation tool** (license per repo) — **the most versatile open-source lead discovery tool** for event and GitHub-based prospecting . **Features**: **Attendee spell**—drop in a CSV and get leads ranked best-first with drafts; **GitHub spell**—type a GitHub search and get matching profiles; **AI-optional**—plain rules and templates work without AI; web search, research mode, and AI drafts use your own keys (OpenAI, Anthropic, or local Ollama) plus a search service (TinyFish, Exa, Tavily, Brave, Serper, or self-hosted SearXNG); runs locally by default or deploy to a server with password protection; outputs CSV or CRM push . **Tech stack**: Python 3.11+, no external dependencies required . **Deploy**: `cantrip ui` locally or Docker Compose for teams . **Trade-off**: **Lead discovery and draft generation, not sending**—it does not send emails or manage sequences. AI is optional but recommended for quality. **Best for**: teams wanting a flexible, privacy-conscious tool for turning attendee lists or GitHub searches into ranked leads with drafts—without a SaaS subscription.
-
-
-
-- **[BasaltCRM](https://github.com/BasaltHQ/crm-official)**
-
-  **Open-source AI-native CRM with autonomous LeadGen agents** (MIT) — **the most complete open-source CRM with built-in prospecting** . **Features**: **LeadGen Wizard**—autonomous AI agents crawl the web to discover, qualify, and populate your pipeline; **AI Insights Widget** with neural health checks; **Voice AI Agent** for autonomous discovery calls (AWS Chime); **AI Email Composer** with React Email templates; Gmail/Outlook OAuth; AWS SES/Resend delivery; multi-model support (OpenAI, Anthropic, Azure, Google, Mistral, DeepSeek); full GTM pipeline from campaigns through invoices . **Tech stack**: Next.js 16, React 19, TypeScript, MongoDB, Prisma, Vercel AI SDK . **Deploy**: Self-hosted (Node.js + MongoDB) or Vercel . **Trade-off**: **CRM-first, not outreach-first**—LeadGen populates the pipeline, but email sending and sequence management are less developed than Pigeon or dedicated outreach tools. Complex platform to deploy and operate. **Best for**: teams wanting an open-source CRM where AI prospecting is built into the pipeline management experience.
-
-
-
-- **[DenchClaw](https://github.com/DenchHQ/DenchClaw)**
-
-  **Locally-running AI CRM with natural language database and LinkedIn/email automation** — **the most privacy-first prospecting tool** . **Features**: Ask questions in plain English—converts to SQL against DuckDB; **LinkedIn lead discovery** with filters (e.g., "YC W26 founders building AI companies"); contact enrichment (LinkedIn profile, email, education); **personalized message sending**; Kanban pipeline with auto-updated cards based on replies; pipeline analytics on request; scheduled reports and follow-ups; integrates Google Drive, Notion, Salesforce, HubSpot, Gmail, Calendar, Slack, LinkedIn . **Tech stack**: OpenClaw framework, DuckDB, local execution . **Deploy**: Local (Mac) . **Trade-off**: **Mac-only local tool**—not a server-deployable platform for teams. LinkedIn automation may violate platform terms. No email deliverability infrastructure. **Best for**: individual founders and salespeople wanting a private, local AI CRM that finds and contacts leads from LinkedIn without cloud data storage.
-
-
-
-- **[AI Sales Agent](https://github.com/Dvbxtreme/ai-sales-agent)**
-
-  **Open-source AI sales agent with local Ollama** (Next.js 15) — **the most cost-conscious option** . **Features**: AI chatbot (local Ollama, no API costs); content generator (blog posts, tweets, LinkedIn posts, emails); **lead finder**—scrape potential customers from the web; **auto outreach**—generate personalized emails; admin dashboard; built-in blog . **Tech stack**: Next.js 15, Ollama (local LLM), SQLite, JWT, Tailwind . **Deploy**: Self-hosted (`npm run dev`, requires Ollama) . **Trade-off**: **Early-stage and minimal**—lead finding is basic web scraping, no enrichment or verification, no sending infrastructure or sequences. **Best for**: developers wanting a free, local AI foundation to experiment with sales agent concepts without API costs.
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **ColdPost** — Lightweight cold email automation for students and entrepreneurs (Python/Flask) . **Note**: CSV upload, `{name}` personalization, Gmail SMTP, bulk sending. No AI, no warm-up, no sequences. **Best for**: students and first-time cold emailers needing a simple free tool.
-
-- **batuda** — Open-source CRM with built-in research agent (MIT) . **Note**: Research-first CRM with mandatory citation ledger, 90+ MCP tools, email via your own IMAP/SMTP. Complex self-hosting (Node 24, Postgres, S3). **Best for**: teams wanting a research-heavy CRM where AI finds and verifies prospect data with citations.
-
-- **contractor-lead-scraper** — Free Google Maps lead scraper (PyPI) . **Note**: Local business scraping (roofing, HVAC), deep email crawling, no AI scoring or outreach. **Best for**: local service businesses wanting free lead lists from Google Maps.
-
-
-
-**Frameworks for building custom systems**: Combine **Pigeon** as the outreach and deliverability backbone with **Cantrip** or **growth-tools** for lead discovery and scoring, **BasaltCRM** for CRM-integrated AI prospecting, and **AI Sales Agent** as a local Ollama foundation—creating a self-hosted prospecting stack. **None of these match Apollo's contact database or HubSpot's integrated signal-to-outreach agent**; those require commercial platforms or significant data acquisition.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, license (for open-source), and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- AI sales prospecting tools handling prospect data and outreach must comply with data protection regulations (GDPR, CCPA, CAN-SPAM, etc.) and implement appropriate consent, opt-out, and rate-limiting mechanisms. AI-generated messages should be reviewed for accuracy and compliance before sending.
-
-- **The "AI SDR" vs. "sales engagement platform" vs. "data/sequencing tool" distinction matters.** **HubSpot AI Prospecting Agent, Artisan, and 11x** are **AI SDRs**—they autonomously research, draft, and (optionally) send with minimal human input . **Apollo, Outreach, and Salesloft** are **sales engagement platforms**—they provide data, sequences, and execution with varying AI layers. **Regie.ai, Instantly, and Lemlist** are **outreach tools**—they focus on sending and personalization. **Open-source**: **Pigeon** is the closest to a full outreach platform; **OpenOutreach** and **BasaltCRM** are agent-driven; **Cantrip** and **growth-tools** are discovery tools, not sending platforms. **Choose based on whether you need autonomous execution, manual sequences, or just lead discovery.**
-
-- **Pigeon is the most complete open-source outreach platform** in this list, with warm-up, deliverability tooling, AI writing, and lead discovery . **The trade-off**: it requires configuration and your own API keys for AI features. It is infrastructure you operate, not a managed service.
-
-- **OpenOutreach is the most popular open-source AI prospecting agent** (~3,300 stars), but it is **agent-driven with less manual control** than Pigeon . You describe your product and it finds and emails prospects. **Choose it if you want automation over control.**
-
-- **HubSpot's $1-per-lead pricing is unique** and aligns cost with results, but requires Sales Hub Enterprise . **Apollo's data training policy is a concern**—customer data may be used to train internal models with no opt-out . **Review vendor policies carefully before committing.**
-
-- **Pricing opacity varies.** HubSpot publishes per-lead pricing; Apollo, Regie.ai, Instantly, and Lemlist publish tiered pricing; Artisan publishes $250/month entry. Outreach, Salesloft, Amplemarket, and 11x require sales contact or have higher entry points ($600–$3,750/month) . **Validate with direct vendor conversations against your team size and volume.**
-
-- Self-hosted open-source solutions require proper server setup, email authentication (SPF/DKIM/DMARC), IP warming, and ongoing maintenance. **Cold outreach deliverability is hard**—self-hosting shifts the entire burden to you. **Ensure your deployment meets anti-spam regulations and your organization's security standards before sending live campaigns.**
-
-
+---
+
+## 💻 Open-Source GitHub Projects
+
+> [!TIP]
+> The open-source repositories below are ranked in descending order by **GitHub Stargazers count**. Click any star badge to jump directly to the repo's stargazers community page!
+
+1. **[eracle / OpenOutreach](https://github.com/eracle/OpenOutreach)** [![GitHub stars](https://img.shields.io/github/stars/eracle/OpenOutreach?style=social&color=white)](https://github.com/eracle/OpenOutreach/stargazers)
+   - **Overview:** Autonomous open-source AI agent for B2B lead generation. Describe your ideal customer profile and product proposition; the agent searches the web, analyzes candidate profiles, produces an explicit rationale for why each prospect fits, and sends automated personalized outreach directly from your mailbox.
+   - **Key Capabilities:** Agent-driven pipeline, zero complex manual sequence building, explainable qualification.
+   - **Tech Stack:** Python.
+
+2. **[ethanplusai / harvey](https://github.com/ethanplusai/harvey)** [![GitHub stars](https://img.shields.io/github/stars/ethanplusai/harvey?style=social&color=white)](https://github.com/ethanplusai/harvey/stargazers)
+   - **Overview:** Autonomous AI sales agent engineered to run via Claude Code or OpenAI Codex. Finds prospect companies and decision-makers, crafts context-rich cold emails, executes campaigns, parses incoming replies, and books meetings on your calendar.
+   - **Key Capabilities:** Runs entirely on your existing Claude/Codex credentials with no separate API keys needed, zero markup on LLM tokens.
+   - **Tech Stack:** TypeScript / Node.js.
+
+3. **[filip-michalsky / SalesGPT](https://github.com/filip-michalsky/SalesGPT)** [![GitHub stars](https://img.shields.io/github/stars/filip-michalsky/SalesGPT?style=social&color=white)](https://github.com/filip-michalsky/SalesGPT/stargazers)
+   - **Overview:** Context-aware, conversation-stage sales agent built to automate cold calls and email conversations. Uses explicit stage recognition to keep conversations grounded and aligned with sales methodologies.
+   - **Key Capabilities:** Stage tracking, objection handling, CRM synchronization, Twilio voice integration support.
+   - **Tech Stack:** Python, LangChain, LiteLLM.
+
+4. **[DenchHQ / DenchClaw](https://github.com/DenchHQ/DenchClaw)** [![GitHub stars](https://img.shields.io/github/stars/DenchHQ/DenchClaw?style=social&color=white)](https://github.com/DenchHQ/DenchClaw/stargazers)
+   - **Overview:** Privacy-first, locally hosted AI CRM and prospecting engine with natural language querying over DuckDB. Discovers LinkedIn leads with customized filters, enriches emails, and drafts personalized messages.
+   - **Key Capabilities:** Conversational natural language-to-SQL interface, Kanban auto-pipeline based on email replies, zero third-party cloud data persistence.
+   - **Tech Stack:** OpenClaw framework, DuckDB, Python.
+
+5. **[growthenginenowoslawski / coldoutboundskills](https://github.com/growthenginenowoslawski/coldoutboundskills)** [![GitHub stars](https://img.shields.io/github/stars/growthenginenowoslawski/coldoutboundskills?style=social&color=white)](https://github.com/growthenginenowoslawski/coldoutboundskills/stargazers)
+   - **Overview:** Production-tested Claude Code skills for cold email deliverability, waterfall lead enrichment, campaign auditing, and outbound copywriting based on real-world multi-million email campaigns.
+   - **Key Capabilities:** Lead grading, Google Maps local business scraping, Prospeo search exports, automated subject line and copy evaluation.
+   - **Tech Stack:** Claude Code Skills, Markdown, Shell, Python.
+
+6. **[kaymen99 / sales-outreach-automation-langgraph](https://github.com/kaymen99/sales-outreach-automation-langgraph)** [![GitHub stars](https://img.shields.io/github/stars/kaymen99/sales-outreach-automation-langgraph?style=social&color=white)](https://github.com/kaymen99/sales-outreach-automation-langgraph/stargazers)
+   - **Overview:** End-to-end sales outreach workflow constructed on LangGraph. Coordinates multi-agent collaboration for prospect discovery, company background research, qualification scoring, and dynamic email generation synced with HubSpot and Google Sheets.
+   - **Key Capabilities:** Graph-based cyclical agent workflows, stateful human-in-the-loop review, automated CRM record creation.
+   - **Tech Stack:** Python, LangGraph, LangChain, Tavily Search.
+
+7. **[asiifdev / business-leads-ai-automation (Prospex)](https://github.com/asiifdev/business-leads-ai-automation)** [![GitHub stars](https://img.shields.io/github/stars/asiifdev/business-leads-ai-automation?style=social&color=white)](https://github.com/asiifdev/business-leads-ai-automation/stargazers)
+   - **Overview:** Open-source AI sales and marketing OS with mandatory human-approval outbox gates. Features lead qualification scoring, AI voice mimicking based on historical chats, and multichannel outreach across WhatsApp and Email.
+   - **Key Capabilities:** Rate limiting (10/hr, 80/day caps), quiet hours, randomized send pauses, built-in STOP/opt-out compliance.
+   - **Tech Stack:** Node.js, Next.js, Prisma, TailwindCSS.
+
+8. **[adityajha2005 / yc-outreach](https://github.com/adityajha2005/yc-outreach)** [![GitHub stars](https://img.shields.io/github/stars/adityajha2005/yc-outreach?style=social&color=white)](https://github.com/adityajha2005/yc-outreach/stargazers)
+   - **Overview:** Targeted lead scraper and cold outreach tool for Y Combinator startup founders. Select any YC batch, automatically extract founder bios and inferred corporate emails, and dispatch personalized outreach templates.
+   - **Key Capabilities:** Zero dependencies outside Python stdlib + HTML UI, one-click Vercel deployment.
+   - **Tech Stack:** Python, HTML/JS.
+
+9. **[PaulleDemon / Email-automation](https://github.com/PaulleDemon/Email-automation)** [![GitHub stars](https://img.shields.io/github/stars/PaulleDemon/Email-automation?style=social&color=white)](https://github.com/PaulleDemon/Email-automation/stargazers)
+   - **Overview:** Lightweight open-source cold email outreach and automated sequence dispatch tool designed for solo founders, marketers, and sales developers seeking reliable email scheduling.
+   - **Key Capabilities:** Template variable injection, SMTP rotation, click and open rate tracking.
+   - **Tech Stack:** Python, Flask, SQLite.
+
+10. **[catin-black / meteor-emails](https://github.com/catin-black/meteor-emails)** [![GitHub stars](https://img.shields.io/github/stars/catin-black/meteor-emails?style=social&color=white)](https://github.com/catin-black/meteor-emails/stargazers)
+    - **Overview:** Free, community-driven cold email infrastructure tool engineered to fight sales pipeline stagnation through automated list segmentation and bulk sequence sending.
+    - **Key Capabilities:** Direct SMTP configuration, CSV lead list uploads, multi-account rotation.
+    - **Tech Stack:** JavaScript, Node.js.
+
+11. **[codebasics / project-genai-cold-email-generator](https://github.com/codebasics/project-genai-cold-email-generator)** [![GitHub stars](https://img.shields.io/github/stars/codebasics/project-genai-cold-email-generator?style=social&color=white)](https://github.com/codebasics/project-genai-cold-email-generator/stargazers)
+    - **Overview:** Generative AI cold email writer leveraging open-weights Llama 3.1 LLM, LangChain, and ChromaDB vector search. Scrapes company career or service pages and produces contextually tailored cold pitches aligned with your portfolio offerings.
+    - **Key Capabilities:** Career page job scraping, vector-backed portfolio matching, zero API cost when paired with local Ollama or Groq.
+    - **Tech Stack:** Python, Streamlit, LangChain, ChromaDB, Groq / Llama 3.1.
+
+12. **[AbdelftahZowail / Quickly](https://github.com/AbdelftahZowail/Quickly)** [![GitHub stars](https://img.shields.io/github/stars/AbdelftahZowail/Quickly?style=social&color=white)](https://github.com/AbdelftahZowail/Quickly/stargazers)
+    - **Overview:** Self-hosted open-source cold email alternative to Instantly, Smartlead, and Lemlist. Provides sequence management, inbox warming schedules, and multi-SMTP rotation.
+    - **Key Capabilities:** Deliverability monitoring, campaign scheduling, open and click webhooks.
+    - **Tech Stack:** TypeScript, Next.js, PostgreSQL.
+
+13. **[getsoyuz / soyuz](https://github.com/getsoyuz/soyuz)** [![GitHub stars](https://img.shields.io/github/stars/getsoyuz/soyuz?style=social&color=white)](https://github.com/getsoyuz/soyuz/stargazers)
+    - **Overview:** Open-source self-hosted alternative to Apollo.io for B2B sales intelligence and sequence dispatch.
+    - **Key Capabilities:** Contact list management, multi-step sequence builder, email dispatch via custom SMTP.
+    - **Tech Stack:** TypeScript, Node.js.
+
+14. **[omkarcloud / website-email-contact-scraper](https://github.com/omkarcloud/website-email-contact-scraper)** [![GitHub stars](https://img.shields.io/github/stars/omkarcloud/website-email-contact-scraper?style=social&color=white)](https://github.com/omkarcloud/website-email-contact-scraper/stargazers)
+    - **Overview:** Fast website contact scraper that extracts corporate emails, direct phone numbers, LinkedIn/Twitter social links, and website technology stacks into structured JSON.
+    - **Key Capabilities:** Headless browser crawling, regex contact validation, bulk URL queueing.
+    - **Tech Stack:** Python, Playwright.
+
+15. **[BasaltHQ / crm-official](https://github.com/BasaltHQ/crm-official)** [![GitHub stars](https://img.shields.io/github/stars/BasaltHQ/crm-official?style=social&color=white)](https://github.com/BasaltHQ/crm-official/stargazers)
+    - **Overview:** AI-native CRM with built-in autonomous LeadGen Wizard agents that crawl the web, identify decision-makers, and populate pipelines with verified records.
+    - **Key Capabilities:** Autonomous discovery voice AI agent (AWS Chime), multi-model LLM composer (OpenAI, Claude, DeepSeek), React Email templates.
+    - **Tech Stack:** Next.js 16, React 19, Prisma, MongoDB, Vercel AI SDK.
+
+16. **[tarinagarwal / Pigeon](https://github.com/tarinagarwal/Pigeon)** [![GitHub stars](https://img.shields.io/github/stars/tarinagarwal/Pigeon?style=social&color=white)](https://github.com/tarinagarwal/Pigeon/stargazers)
+    - **Overview:** Comprehensive open-source cold email outreach and deliverability platform. Features mailbox warmup with threaded spam rescues, DNS automation (SPF, DKIM, DMARC), A/B testing with auto-selected winners, and Smart Leads discovery pipeline.
+    - **Key Capabilities:** Multi-inbox rotation, pairing risk scoring, bring-your-own AI keys (OpenAI, Anthropic, Gemini).
+    - **Tech Stack:** Next.js 16, React 19, TypeScript, FastAPI, MongoDB, Docker.
+
+17. **[omm9846 / verdict](https://github.com/omm9846/verdict)** [![GitHub stars](https://img.shields.io/github/stars/omm9846/verdict?style=social&color=white)](https://github.com/omm9846/verdict/stargazers)
+    - **Overview:** Self-hosted Apollo and Clay alternative focusing on deep email discovery and rigorous direct SMTP mailbox verification for bounce-proof sending.
+    - **Key Capabilities:** ZeroBounce-style real-time MX/SMTP ping verification, waterfall lead enrichment.
+    - **Tech Stack:** Go / Python.
+
+18. **[Dvbxtreme / ai-sales-agent](https://github.com/Dvbxtreme/ai-sales-agent)** [![GitHub stars](https://img.shields.io/github/stars/Dvbxtreme/ai-sales-agent?style=social&color=white)](https://github.com/Dvbxtreme/ai-sales-agent/stargazers)
+    - **Overview:** Open-source AI sales agent running entirely on local Ollama LLMs with zero API token costs. Combines a web scraper for discovering potential prospects with an automated email drafter.
+    - **Key Capabilities:** Zero recurring API fees, local privacy, integrated admin dashboard.
+    - **Tech Stack:** Next.js 15, Ollama, SQLite, JWT, TailwindCSS.
+
+19. **[cantrip-dev / cantrip](https://github.com/cantrip-dev/cantrip)** [![GitHub stars](https://img.shields.io/github/stars/cantrip-dev/cantrip?style=social&color=white)](https://github.com/cantrip-dev/cantrip/stargazers)
+    - **Overview:** Go-to-market lead discovery tool for event attendee lists and GitHub user profiles. Turns raw attendee CSVs or GitHub search queries into ranked candidate leads with tailored draft pitches.
+    - **Key Capabilities:** Local web search integration (Tavily, Brave, SearXNG, Exa), rule-based or LLM-based scoring.
+    - **Tech Stack:** Python 3.11+, zero external dependencies required.
 
 ---
 
+## 🤝 How to Contribute
 
+We welcome community contributions! Follow these steps to submit a new SaaS platform or open-source tool:
 
-**Made for developers, sales teams, and organizations building transparent AI prospecting solutions.**
+1. 🍴 **Fork** this repository.
+2. 🌿 Create a feature branch: `git checkout -b add-new-sales-tool`.
+3. 📝 Add your entry under either [SaaS/Hosted Platforms](#-saas--hosted-commercial-platforms) or [Open-Source GitHub Projects](#-open-source-github-projects):
+   - For **SaaS**: Include verified starting tier pricing, explicit free tier/trial limits, valuation/revenue, and key features.
+   - For **Open-Source**: Provide the GitHub repo link, live star badge linking to its `/stargazers` page, 1–2 sentence description, and tech stack. Maintain descending star order.
+4. 🚀 Submit a **Pull Request** with a brief overview of why the tool is valuable.
 
-Let's make AI Sales Prospecting & Outreach more open, data-driven, and prospect-respectful.
+---
+
+##  Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-AI-Sales-Prospecting-Outreach&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-AI-Sales-Prospecting-Outreach&type=date&legend=top-left)
+
+---
+
+## 💖 Support & Sponsorship
+
+If this curated repository helped you save engineering hours, build your GTM stack, or discover open-source outbound tooling, please consider supporting the project:
+
+- ⭐ **Star this repository** to help others discover it on GitHub.
+- 🍴 **Fork and share** with your revenue engineering and sales ops peers.
+- ☕ **Sponsor the Maintainer:** Support ongoing curation, benchmark updates, and new open-source projects via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007).
+
+---
+
+## ⚠️ Disclaimer
+
+- This is a community-curated directory intended for research, software architecture comparison, and educational purposes. Inclusion does not constitute an endorsement.
+- Outbound sales campaigns, data harvesting, and AI-driven prospecting must strictly adhere to data privacy and anti-spam legislation across jurisdictions (e.g., GDPR, CCPA, CAN-SPAM, CASL). Always ensure proper consent mechanisms, clear opt-out options, and domain deliverability safeguards before sending live outreach.
+- Vendor pricing models and free trial terms are subject to change. Always verify current commercial packages directly with respective vendors.
+
+---
+
+<div align="center">
+  <b>Built with care for sales engineers, autonomous agent developers, and modern revenue teams worldwide. 🚀</b>
+</div>

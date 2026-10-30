@@ -1,0 +1,183 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" width="100%" height="100%">
+  <defs>
+    <!-- Background Gradients -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090d16" />
+      <stop offset="50%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#050811" />
+    </linearGradient>
+
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#818cf8" />
+      <stop offset="100%" stop-color="#c084fc" />
+    </linearGradient>
+
+    <linearGradient id="accentGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#6366f1" />
+      <stop offset="100%" stop-color="#ec4899" />
+    </linearGradient>
+
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b" stop-opacity="0.75" />
+      <stop offset="100%" stop-color="#0f172a" stop-opacity="0.85" />
+    </linearGradient>
+
+    <!-- Filters & Glows -->
+    <filter id="glowCyan" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="25" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+    <filter id="glowPurple" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="30" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+
+    <!-- Grid Pattern -->
+    <pattern id="cyberGrid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#334155" stroke-width="0.7" stroke-opacity="0.3" />
+      <circle cx="40" cy="40" r="1" fill="#475569" fill-opacity="0.5" />
+    </pattern>
+  </defs>
+
+  <style>
+    .title-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-weight: 800;
+      font-size: 44px;
+      letter-spacing: -0.5px;
+    }
+    .subtitle-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-weight: 400;
+      font-size: 19px;
+      fill: #94a3b8;
+    }
+    .pill-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-weight: 600;
+      font-size: 13px;
+      fill: #e2e8f0;
+    }
+    .status-text {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-weight: 600;
+      font-size: 12px;
+      fill: #38bdf8;
+    }
+  </style>
+
+  <!-- Background Base -->
+  <rect width="1200" height="420" rx="16" fill="url(#bgGrad)" />
+  <rect width="1200" height="420" rx="16" fill="url(#cyberGrid)" />
+
+  <!-- Animated Ambient Orbs in Deep Background (Behind Text) -->
+  <g opacity="0.35">
+    <circle cx="180" cy="120" r="140" fill="#6366f1" filter="url(#glowPurple)">
+      <animate attributeName="cx" values="180;220;180" dur="10s" repeatCount="indefinite" />
+      <animate attributeName="cy" values="120;160;120" dur="10s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="1020" cy="300" r="160" fill="#06b6d4" filter="url(#glowCyan)">
+      <animate attributeName="cx" values="1020;980;1020" dur="12s" repeatCount="indefinite" />
+      <animate attributeName="cy" values="300;260;300" dur="12s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="900" cy="80" r="100" fill="#ec4899" filter="url(#glowPurple)">
+      <animate attributeName="opacity" values="0.2;0.5;0.2" dur="8s" repeatCount="indefinite" />
+    </circle>
+  </g>
+
+  <!-- Flowing Dynamic Particle Wave lines (Bottom Background) -->
+  <g stroke-linecap="round" opacity="0.25">
+    <path d="M 0 340 Q 300 280 600 340 T 1200 340" fill="none" stroke="#38bdf8" stroke-width="2" stroke-dasharray="8 8">
+      <animate attributeName="stroke-dashoffset" values="0;100" dur="5s" repeatCount="indefinite" />
+    </path>
+    <path d="M 0 370 Q 300 420 600 370 T 1200 370" fill="none" stroke="#a855f7" stroke-width="2" stroke-dasharray="12 12">
+      <animate attributeName="stroke-dashoffset" values="100;0" dur="7s" repeatCount="indefinite" />
+    </path>
+  </g>
+
+  <!-- Sleek Top Status Pill -->
+  <g transform="translate(60, 48)">
+    <rect width="250" height="32" rx="16" fill="#1e293b" stroke="#334155" stroke-width="1.2" />
+    <circle cx="18" cy="16" r="5" fill="#10b981">
+      <animate attributeName="r" values="4;6;4" dur="2s" repeatCount="indefinite" />
+      <animate attributeName="opacity" values="1;0.6;1" dur="2s" repeatCount="indefinite" />
+    </circle>
+    <text x="32" y="21" class="status-text">AUTONOMOUS GTM &amp; SDR</text>
+  </g>
+
+  <!-- Live Pulse Metric Pill (Top Right) -->
+  <g transform="translate(890, 48)">
+    <rect width="250" height="32" rx="16" fill="#1e293b" stroke="#38bdf8" stroke-width="1" stroke-opacity="0.4" />
+    <circle cx="18" cy="16" r="4" fill="#38bdf8">
+      <animate attributeName="opacity" values="0.3;1;0.3" dur="2.5s" repeatCount="indefinite" />
+    </circle>
+    <text x="32" y="21" class="status-text" fill="#38bdf8">OCTOBER 2026 EDITION 🚀</text>
+  </g>
+
+  <!-- FOREGROUND: Main Title & Subtitle (Clear, Crisp, Unobstructed) -->
+  <g transform="translate(60, 140)">
+    <text class="title-text" fill="url(#textGrad)">Awesome AI Sales Prospecting &amp; Outreach</text>
+    <text x="0" y="44" class="subtitle-text">Curated intelligence on autonomous AI SDRs, intent signals, waterfall enrichment &amp; open-source outreach engines</text>
+  </g>
+
+  <!-- Visual Interactive Feature Pills (Mid/Lower Section) -->
+  <g transform="translate(60, 240)">
+    <!-- Pill 1: AI SDR Agents -->
+    <g transform="translate(0, 0)">
+      <rect width="200" height="42" rx="10" fill="url(#cardGrad)" stroke="#38bdf8" stroke-width="1.2" stroke-opacity="0.5" />
+      <text x="20" y="26" class="pill-text">🤖 Autonomous AI SDRs</text>
+    </g>
+
+    <!-- Pill 2: Signal-Based Outbound -->
+    <g transform="translate(216, 0)">
+      <rect width="220" height="42" rx="10" fill="url(#cardGrad)" stroke="#818cf8" stroke-width="1.2" stroke-opacity="0.5" />
+      <text x="20" y="26" class="pill-text">⚡ Signal-Based Outbound</text>
+    </g>
+
+    <!-- Pill 3: Lead Enrichment -->
+    <g transform="translate(452, 0)">
+      <rect width="220" height="42" rx="10" fill="url(#cardGrad)" stroke="#a855f7" stroke-width="1.2" stroke-opacity="0.5" />
+      <text x="20" y="26" class="pill-text">🔍 Waterfall Lead Enrichment</text>
+    </g>
+
+    <!-- Pill 4: Open-Source Infrastructure -->
+    <g transform="translate(688, 0)">
+      <rect width="230" height="42" rx="10" fill="url(#cardGrad)" stroke="#ec4899" stroke-width="1.2" stroke-opacity="0.5" />
+      <text x="20" y="26" class="pill-text">🛠️ Open-Source Infrastructure</text>
+    </g>
+
+    <!-- Pill 5: MCP Connectors -->
+    <g transform="translate(934, 0)">
+      <rect width="186" height="42" rx="10" fill="url(#cardGrad)" stroke="#10b981" stroke-width="1.2" stroke-opacity="0.5" />
+      <text x="20" y="26" class="pill-text">🔌 Model Context Protocol</text>
+    </g>
+  </g>
+
+  <!-- Bottom Interactive Status Bar -->
+  <g transform="translate(60, 320)">
+    <rect width="1080" height="52" rx="12" fill="#0b1120" stroke="#1e293b" stroke-width="1.5" />
+    
+    <!-- Step 1 -->
+    <circle cx="40" cy="26" r="6" fill="#38bdf8" />
+    <text x="56" y="31" font-family="-apple-system, sans-serif" font-size="13" font-weight="600" fill="#cbd5e1">1. Identify Signals</text>
+    
+    <path d="M 190 26 L 240 26" stroke="#475569" stroke-width="2" stroke-dasharray="4 4" />
+    
+    <!-- Step 2 -->
+    <circle cx="260" cy="26" r="6" fill="#818cf8" />
+    <text x="276" y="31" font-family="-apple-system, sans-serif" font-size="13" font-weight="600" fill="#cbd5e1">2. Deep Enrichment</text>
+    
+    <path d="M 430 26 L 480 26" stroke="#475569" stroke-width="2" stroke-dasharray="4 4" />
+    
+    <!-- Step 3 -->
+    <circle cx="500" cy="26" r="6" fill="#c084fc" />
+    <text x="516" y="31" font-family="-apple-system, sans-serif" font-size="13" font-weight="600" fill="#cbd5e1">3. Agentic Personalization</text>
+    
+    <path d="M 700 26 L 750 26" stroke="#475569" stroke-width="2" stroke-dasharray="4 4" />
+    
+    <!-- Step 4 -->
+    <circle cx="770" cy="26" r="6" fill="#10b981" />
+    <text x="786" y="31" font-family="-apple-system, sans-serif" font-size="13" font-weight="600" fill="#cbd5e1">4. Multi-Channel Execution &amp; CRM Sync</text>
+  </g>
+</svg>
