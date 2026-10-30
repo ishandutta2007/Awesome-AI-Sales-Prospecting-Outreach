@@ -32,79 +32,30 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
 
+## Sector Overview & Market Dynamics
 
+The global market for AI sales assistants and autonomous sales engagement platforms is estimated at **$3.0B–$9.2B in 2025**, projected to surpass **$15B–$50B by 2030** at an accelerated CAGR between **16% and 44%**. Rather than a winner-take-all monopoly, the sector remains **highly fragmented**: established enterprise CRM and SEP incumbents (Salesforce, HubSpot, Outreach, Salesloft) hold significant suite market share, while dozens of agile, venture-backed and bootstrapped startups (Apollo, 11x, Artisan, Instantly) rapidly capture demand through autonomous AI SDR agents, intent-signal execution, and self-hosted outbound workflows.
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[HubSpot AI Prospecting Agent](https://www.hubspot.com/)**
-
-  **AI agent embedded in HubSpot Smart CRM** that monitors buying signals (funding rounds, leadership changes, website visits), identifies complete buying committees, and drafts personalized emails in each rep's voice. Requires human approval before sending in semi-autonomous mode. Claims **76% more qualified leads**, **80% more meetings**, and **26% higher deal success rate**. Pricing: **$1 per lead** when the agent recommends outreach; requires Sales Hub Enterprise . **Free tier**: None for the agent. **Best for**: HubSpot Enterprise customers wanting signal-based prospecting with built-in approval workflows and CRM-native execution.
-
-
-
-- **[Apollo.io](https://www.apollo.io/)**
-
-  **B2B sales intelligence and outbound platform** with **240M+ verified contacts** and **30M+ companies**. Includes AI-powered Lookalikes, intent data filters, autonomous sequence execution (send, wait, follow up, log to CRM without per-step approval), and a **first-party MCP server** (mcp.apollo.io) on every plan for Claude, ChatGPT, and Perplexity integration. Pricing: Free tier; paid from **$49/user/month** (annual) or $65 monthly; Organization starts at 3 seats at $119/user/month . **Free tier**: Yes, with limited credits. **Best for**: teams wanting the broadest contact database with autonomous sequences and emerging AI/MCP integration—**note**: Apollo's policy allows customer data to train internal models with no opt-out .
-
-
-
-- **[Outreach](https://www.outreach.ai/)**
-
-  **Enterprise AI Agent Platform for revenue teams** with named agents covering research, personalization, deal management, and forecasting. The **Amplify** tiers combine seat-based and consumption-based (AI credits) pricing. **Amplify Plus** includes Omni Agent, Research Agent, Revenue Agent, Personalization Agent, Deal Agent, and **Outreach MCP** (server & client). Implementation cycles of **4–12 weeks**; enterprise-only with no self-serve tier . **Free tier**: None. **Best for**: enterprises wanting the most complete sales execution stack (sequences, dialer, conversation intelligence, forecasting) in one platform with deep CRM integration.
-
-
-
-- **[Salesloft](https://www.salesloft.com/)**
-
-  **Revenue orchestration platform** (post-Clari merger) with named AI agents for account research, email generation, deal summaries, and MEDDPICC extraction. **Salesloft MCP Server** exposes pipeline and call data to Claude, ChatGPT, and Copilot. Pricing: **Quote-only**, no published rates; annual contracts; onboarding typically **4–12 weeks** . **Free tier**: None. **Best for**: enterprises prioritizing conversation intelligence and coaching alongside cadence execution—**note**: no email verification included; verify contacts before import .
-
-
-
-- **[Regie.ai](https://www.regie.ai/)**
-
-  **AI prospecting platform (RegieGO)** with autonomous research, enrichment, drafting, and dialing. **Free tier**: Yes, **250 one-time credits** per person (up to 10 people). **Pro** $41–$49/month with 5,000 credits; **Team** $125–$150/seat/month with 15,000 credits/seat; Enterprise custom. Credit-based: enrichment that finds nothing is free; sending from your own Gmail/Outlook . **Free tier**: Yes. **Best for**: individuals and small teams wanting a credit-based, self-serve AI prospecting tool with a generous free tier—**note**: paid credits don't roll over .
-
-
-
-- **[Instantly](https://instantly.ai/)**
-
-  **Cold email and outbound platform** with unlimited email account connection and warmup. **Outbound plans**: Growth $47/month (1,000 contacts, 5,000 emails); Hyper Growth $97/month (25,000 contacts, 125,000 emails). **Data Credits** for lead finder and enrichment start at $9/month for 150 credits. **AI CRM** and **Inbox Placement** add-ons available . **Free tier**: Trial with 250 contacts and 1,000 emails. **Best for**: high-volume cold emailers wanting unlimited sending accounts and aggressive pricing—**note**: contact limits are fixed across all campaigns, not monthly .
-
-
-
-- **[Lemlist](https://www.lemlist.com/)**
-
-  **Cold email and multichannel outreach** with **450M+ leads database**, email finder/verifier, custom image personalization, A/B testing, and inbox rotation. **Email Pro** $69/month (3 sending addresses, 1,000 credits); **Multichannel Expert** $99/month (5 addresses, 1,500 credits, LinkedIn outreach, cold calling); Enterprise custom (annual, 5-seat minimum) . **Free tier**: None; trial available. **Best for**: teams wanting multichannel outreach (email + LinkedIn + calls) with strong personalization features.
-
-
-
-- **[Amplemarket](https://www.amplemarket.com/)**
-
-  **All-in-one sales prospecting platform** combining data, outreach, intent signals, AI agents, and deliverability tools. **Startup plan** $600/month (annual, includes 2 users); Growth starts at 4 users; Elite at 10. Positioned as consolidating 3–5 tools (Apollo + Outreach + warmup + intent data) into one . **Free tier**: None. **Best for**: teams wanting to consolidate their prospecting stack into one platform—**note**: higher sticker price than Apollo, but includes deliverability and AI prospecting that Apollo lacks .
-
-
-
-- **[Artisan (Ava)](https://www.artisan.co/)**
-
-  **AI BDR** covering lead sourcing (250M+ contacts), enrichment, intent signals, personalized sequences, reply handling, and meeting booking. **Free plan** available; **Business** from $250/month (annual); 30-day 10K-credit trial with no card. Autonomous by default with optional per-campaign approval. Bi-directional Salesforce/HubSpot sync and **Claude connector via MCP** (early feature) . **Free tier**: Yes, permanent free plan. **Best for**: teams wanting an autonomous AI BDR with a free entry point and self-serve pricing—**note**: fuller self-driving mode listed as "coming soon" .
-
-
-
-- **[11x (Alice)](https://www.11x.ai/)**
-
-  **AI SDR** running prospect research, personalized writing, and multichannel sequences (email, phone, LinkedIn, SMS, WhatsApp) with reply handling and meeting booking. **Pricing**: **Growth from $3,750/month** (annual); all tiers sales-led with no self-serve trial. Three control modes: per-message review, approval workflow, or autopilot. Native Salesforce/HubSpot/Pipedrive connectors; contractual commitment not to train AI on customer data . **Free tier**: None. **Best for**: enterprises wanting a fully managed AI SDR with autopilot capability—**note**: 11x advises reviewing early output before switching to autopilot .
-
-
+| Platform | Starting Pricing | Free Tier / Trial Limits | Company Size (Valuation / Revenue) | Key Features & Focus |
+|---|---|---|---|---|
+| **[HubSpot AI Prospecting Agent](https://www.hubspot.com/)** | **$1.00/lead** recommended (requires Sales Hub Enterprise from **$150/user/mo**) | **14-day free trial** upon publishing first automated play (requires existing Sales Hub Enterprise/Pro seat); no permanent free tier for agent | **~$12.8B Market Cap** (~$3.13B+ ARR) | CRM-embedded AI agent monitoring buying signals, identifying buying committees, and drafting personalized outreach in rep voice with semi-autonomous approvals. |
+| **[Outreach](https://www.outreach.ai/)** | From **~$100/user/mo** (Standard/Engage tier, billed annually; quote-based) | **No free trial or free tier**; custom enterprise sales evaluation only (guided demo / POC) | **$4.4B Valuation** (~$250M+ ARR) | Enterprise AI agent platform (Amplify Plus) orchestrating research, personalization, deal tracking, and sequences with first-party MCP support. |
+| **[Salesloft](https://www.salesloft.com/)** | From **~$125/user/mo** (Advanced tier, billed annually; quote-based) | **No self-serve free trial or free tier**; requires sales qualification demo / enterprise pilot | **$2.3B Valuation** (~$450M combined ARR post-Clari merger) | Revenue orchestration platform with AI agents for account research, cadences, conversation intelligence, deal summaries, and MCP server. |
+| **[Apollo.io](https://www.apollo.io/)** | **$49/user/mo** billed annually ($65 billed monthly; Basic tier) | **Free plan forever**: 75 credits/seat/mo (900 credits/yr), max 2 active sequences, 250 daily emails, 5 AI assistant chats | **$1.6B Valuation** (~$250M ARR) | 240M+ B2B contact intelligence database, intent data filters, autonomous sequences, and built-in MCP server (`mcp.apollo.io`). |
+| **[11x (Alice)](https://www.11x.ai/)** | From **$3,750/mo** (Growth tier, billed annually; sales-led) | **No free trial or free tier**; sales discovery demo and negotiated enterprise POC scoping only | **~$350M Valuation** (~$10M ARR; $77M funding) | Autonomous AI SDR digital worker ("Alice" for outbound, "Julian" for inbound) executing multi-channel sequences (email, phone, LinkedIn, WhatsApp) on autopilot. |
+| **[Artisan (Ava)](https://www.artisan.co/)** | **$250/mo** billed annually (Business tier) | **Free plan forever** (basic limits) + **30-day free trial with 10,000 credits** (no credit card required) | **~$250M–$350M Valuation** (~$10M ARR; $35M+ funding) | Autonomous AI BDR ("Ava") handling lead discovery (250M+ contacts), enrichment, hyper-personalized sequences, reply handling, and Claude MCP connector. |
+| **[Lemlist](https://www.lemlist.com/)** | **$69/mo** (Email Pro tier, 3 sending addresses, 1,000 credits) | **14-day free trial** with 200 free credits and Multichannel Expert access (no credit card required); no permanent free tier | **$150M Valuation** (~$53M ARR; bootstrapped lempire) | Multichannel outreach (email, LinkedIn, calls) backed by 450M+ lead database, inbox rotation, custom image personalization, and lemwarm deliverability. |
+| **[Amplemarket](https://www.amplemarket.com/)** | **$600/mo** billed annually (Startup plan, includes 2 user seats) | **14-day free trial** (sales-assisted onboarding / qualification); no permanent free plan | **~$50M–$100M Valuation** (~$15M–$16.6M ARR) | Consolidated all-in-one prospecting suite integrating verified lead data, intent signals, AI email drafting, and inbox deliverability warmup. |
+| **[Instantly](https://instantly.ai/)** | **$47/mo** (Growth tier: 1,000 contacts, 5,000 emails/mo, unlimited warmup) | **14-day free trial** (250 contacts, 1,000 emails sending test); no permanent free plan | **Bootstrapped (~$38M–$80M ARR)** | High-volume outbound engine featuring unlimited email account connections, automated account warm-up, and add-on AI lead search/enrichment credits. |
+| **[Regie.ai](https://www.regie.ai/)** | **$41–$49/mo** (Pro tier: includes 5,000 credits/mo) | **Free plan forever**: **250 one-time credits** per user (up to 10 users); no credit card required | **Series B Venture-Backed (~$8M–$15.5M ARR**; $65M+ raised) | AI prospecting platform (RegieGO) featuring credit-based autonomous research, contact enrichment, personalized drafts, and direct dialer. |
 
 ## Open-Source GitHub Projects
 
